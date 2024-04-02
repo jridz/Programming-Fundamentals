@@ -1,2 +1,2 @@
-# Python-Stuff
-All the scripts I am making from my distance-ed course
+# Programming Fundamentals
+Files from the "Programming Fundamentals" part of my distance education course
